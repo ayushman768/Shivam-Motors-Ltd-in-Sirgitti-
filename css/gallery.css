@@ -1,0 +1,19 @@
+/*--banner-background-custom*/
+
+.gallery-bg {
+    background-image: url(../img/trucks-category-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.gallery-page {
+    padding: 120px 0px;
+}
+
+.gallery-page>h1 {
+    padding: 10px 0px 0px 30px;
+}
+
+
+/*--banner-background-custom*/
